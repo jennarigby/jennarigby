@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @jennarigby, a UCT student studying BSc. Computer Science and Computer Engineering.
-- 👀 I’m interested in AI and application development.
-- 🌱 I’m currently learning web development, and learning to master both java and python.
-- 💞️ I’m looking to collaborate on any projects.
+- 👋 Hi, I’m @jennarigby, a UCT student studying BSc. Computer Science
 - 📫 Contact me via email @jennar704@gmail.com
