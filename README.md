@@ -3,7 +3,7 @@ Hi, I'm Jenna!
 🎓 I'm a final year Computer Science & Business Computing student at the University of Cape Town  
 
 🔧 Tech Stack
-**Languages & Tools:**
+<br>
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
