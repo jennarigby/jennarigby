@@ -13,4 +13,5 @@ Hi, I'm Jenna!
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
 
 📫 **Email me:** [jennar704@gmail.com](mailto:jennar704@gmail.com)
+<br>
 🔗 **LinkedIn:** [jenna-rigby](https://www.linkedin.com/in/jenna-rigby-0a7579281/)
